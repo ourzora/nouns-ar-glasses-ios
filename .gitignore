@@ -4,3 +4,4 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 .build/
+.DS_Store
